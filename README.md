@@ -1,2 +1,2 @@
-# phina-js-tutorial
-This is a phina.js tutorial repository.
+# phina-js-practice
+This is a phina-js-practice repository.
